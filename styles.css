@@ -1,0 +1,14 @@
+body {
+     color:white;
+    background: pink;
+    margin: 0px;
+}
+
+header {
+
+border-bottom: solid 2 px rgb(131, 56, 72);
+padding: 20px;
+font-size: 32px;
+color:rgb(131, 56, 72);
+}
+
